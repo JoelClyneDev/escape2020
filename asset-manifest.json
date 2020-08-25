@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/escape2020/static/css/main.d4634ac0.chunk.css",
+    "main.js": "/escape2020/static/js/main.8bc25e93.chunk.js",
+    "main.js.map": "/escape2020/static/js/main.8bc25e93.chunk.js.map",
+    "runtime-main.js": "/escape2020/static/js/runtime-main.ce0b355d.js",
+    "runtime-main.js.map": "/escape2020/static/js/runtime-main.ce0b355d.js.map",
+    "static/js/2.dc646e27.chunk.js": "/escape2020/static/js/2.dc646e27.chunk.js",
+    "static/js/2.dc646e27.chunk.js.map": "/escape2020/static/js/2.dc646e27.chunk.js.map",
+    "index.html": "/escape2020/index.html",
+    "precache-manifest.e2851fc17aa646b9860d93f7799d9d5a.js": "/escape2020/precache-manifest.e2851fc17aa646b9860d93f7799d9d5a.js",
+    "service-worker.js": "/escape2020/service-worker.js",
+    "static/css/main.d4634ac0.chunk.css.map": "/escape2020/static/css/main.d4634ac0.chunk.css.map",
+    "static/js/2.dc646e27.chunk.js.LICENSE.txt": "/escape2020/static/js/2.dc646e27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/escape2020/static/media/caution-642510.a401c2d8.jpg",
+    "static/media/viper_nora.otf": "/escape2020/static/media/viper_nora.91985fd3.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce0b355d.js",
+    "static/js/2.dc646e27.chunk.js",
+    "static/css/main.d4634ac0.chunk.css",
+    "static/js/main.8bc25e93.chunk.js"
+  ]
+}
